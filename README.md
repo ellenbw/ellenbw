@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ellenbw
-- 👀 I’m interested in methods of data visualization and machine learning.
-- 🌱 I’m currently learning working in databases using MySQL.
-- 💞️ I’m looking to collaborate on any project that's exciting & enticing.
-- 📫 How to reach me: ellenbwray@gmail.com
+Hello friends! :sun_with_face:
 
-<!---
-ellenbw/ellenbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name's Ellen, and I'm a recent grad from the University of Virginia. 
+
+I double majored in economics and statistics, with a concentration in econometrics. My academic career has led me to have experience in R and Python for statistical testing, data visuaulization, machine learning, data wrangling, text analysis, and data science. 
+
+Really into the out-of-the-ordinary coding projects. Like the "bees knees" :honeybee: (i.e. _excellent quality_) of coding work - expanding coding into areas that aren't usually coded. Captivated by the intersection of coding + literature, history, government, etc. Let's use coding to webscrape Yelp to find the best deep dish pizza in Chicago & to investigate sincerity of the love letters between Alexander & Eliza Hamilton. 
+
+The possibilities are endless, so let's explore together. :sunglasses:
